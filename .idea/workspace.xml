@@ -4,7 +4,7 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8de4922-0382-4e5c-bcc5-27bec111b729" name="Changes" comment="first commit">
+    <list default="true" id="f8de4922-0382-4e5c-bcc5-27bec111b729" name="Changes" comment="Add footer">
       <change beforePath="$PROJECT_DIR$/Output.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Output.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1784543017430</updated>
       <workItem from="1784543018447" duration="1000" />
-      <workItem from="1784975321236" duration="6843000" />
+      <workItem from="1784975321236" duration="10618000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784980039446</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add footer">
+      <option name="closed" value="true" />
+      <created>1784983811697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1784983811698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,9 +111,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Add footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add footer" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/csvgenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1784983650197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csvgenerator$main.coverage" NAME="main Coverage Results" MODIFIED="1784986154415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
